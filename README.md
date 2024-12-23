@@ -25,7 +25,8 @@ Ladies and Gentlemen！欢迎来到我的github主页！
 ## Contact
 
 可以通过关注我公众号Spade sec联系我：
-![1734974626159](image/README/1734974626159.jpg)
+
+![1734974814218](image/README/1734974814218.png)
 
 也可以加我wx：I-0xsdeo
 
