@@ -1,12 +1,34 @@
-- 👋 Hi, I’m @0xsdeo
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# About me
 
-<!---
-0xsdeo/0xsdeo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Ladies and Gentlemen！欢迎来到我的github主页！
+
+## Whoami？
+
+我的id是0xsdeo，日常聊天可以叫我黑桃，`Spade sec`公众号号主。
+
+## Technology Stack
+
+前端(html、css、js) + python + php
+
+## Interested in
+
+- JS逆向
+
+- Web安全
+
+- 渗透测试
+
+- 代码审计
+
+- Python编程
+
+## Contact
+
+可以通过关注我公众号Spade sec联系我：
+![1734974626159](image/README/1734974626159.jpg)
+
+也可以加我wx：I-0xsdeo
+
+## Visitor Count
+
+![Visitor Count](https://profile-counter.glitch.me/0xsdeo/count.svg)
