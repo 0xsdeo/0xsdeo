@@ -2,7 +2,7 @@
 
 Ladies and Gentlemen！欢迎来到我的github主页！
 
-![](https://github-readme-stats.vercel.app/api?username=0xsdeo)
+![](https://github-readme-stats.vercel.app/api?username=0xsdeo&show_icons=true&theme=radical#gh-dark-mode-only)
 
 <h2>Whoami？</h2>
 
@@ -24,13 +24,25 @@ Ladies and Gentlemen！欢迎来到我的github主页！
 
 - Python编程
 
+<h2>个人项目</h2>
+
+- <a href="https://github.com/0xsdeo/Hook_JS">Hook_JS</a>：个人向自写JS Hook脚本
+
+- <a href="https://github.com/0xsdeo/Bypass_Debugger">Bypass_Debugger</a>：Bypass无限debugger
+
+- <a href="https://github.com/0xsdeo/HookJS_Template">HookJS_Template</a>：JS Hook通用模板
+
+- <a href="https://github.com/0xsdeo/HeartK">HeartK</a>：FindSomething本地移植版--HeartK
+
+- <a href="https://github.com/0xsdeo/ClubK">ClubK</a>：基于python3编写的简易xss接受平台
+
 <h2>Contact me</h2>
 
 可以通过关注我公众号Spade sec联系我：
 
 ![1734974814218](image/README/1734974814218.png)
 
-也可以加我wx：I-0xsdeo
+也可以直接加我wx：I-0xsdeo
 
 <h2>Visitor Count</h2>
 
