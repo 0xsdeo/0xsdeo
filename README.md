@@ -6,7 +6,7 @@
 
 <h2>Whoami？</h2>
 
-- id：0xsdeo
+- id：0xsdeo，也可以叫我黑桃。
 - `Spade sec`公众号号主
 - JavaScript受害者
 
