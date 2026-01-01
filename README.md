@@ -36,10 +36,6 @@
 
 - <a href="https://github.com/0xsdeo/HookJS_Template">HookJS_Template</a>：JS Hook通用模板
 
-- <a href="https://github.com/0xsdeo/HeartK">HeartK</a>：FindSomething本地移植版--HeartK
-
-- <a href="https://github.com/0xsdeo/ClubK">ClubK</a>：基于python3编写的简易xss接受平台
-
 <h2>Contact me</h2>
 
 可以通过关注我公众号Spade sec联系我：
