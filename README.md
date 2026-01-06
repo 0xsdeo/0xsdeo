@@ -2,11 +2,9 @@
 
 希望我写的工具能帮助到各位。
 
-![](https://github-readme-stats.vercel.app/api?username=0xsdeo&show_icons=true&theme=radical#gh-dark-mode-only)
-
 <h2>Whoami？</h2>
 
-- id：0xsdeo。
+- id：0xsdeo
 - `Spade sec`公众号号主
 - JavaScript受害者
 
