@@ -38,6 +38,6 @@
 
 可以通过关注我公众号Spade sec联系我：
 
-![1760602489352](image/README/1760602489352.bmp)
+<img src="image/README/1760602489352.bmp" width="300">
 
 也可以直接加我wx：I-0xsdeo
